@@ -2,7 +2,7 @@
 
 [返回课程目录](../README.md) · [返回仓库首页](../../README.md)
 
-共 11 节，对应视频 P95–P105。各节文件已放入空白笔记模板，学习后逐步填写。
+共 10 节，对应视频 P95–P105。各节文件已放入空白笔记模板，学习后逐步填写。
 
 | 分集 | 笔记 | 视频 |
 | --- | --- | --- |
@@ -16,4 +16,3 @@
 | P102 | [21 - 2.8多任务学习](P102_21%20-%202.8%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=102) |
 | P103 | [22 - 2.9什么是端到端深度学习](P103_22%20-%202.9%E4%BB%80%E4%B9%88%E6%98%AF%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=103) |
 | P104 | [23 - 2.10是否使用端到端深度学习](P104_23%20-%202.10%E6%98%AF%E5%90%A6%E4%BD%BF%E7%94%A8%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=104) |
-| P105 | [24 - 2.11Ruslan Salakhutdinov访谈](P105_24%20-%202.11Ruslan%20Salakhutdinov%E8%AE%BF%E8%B0%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=105) |

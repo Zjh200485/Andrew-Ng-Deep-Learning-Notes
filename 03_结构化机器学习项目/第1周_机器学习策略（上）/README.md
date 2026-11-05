@@ -2,7 +2,7 @@
 
 [返回课程目录](../README.md) · [返回仓库首页](../../README.md)
 
-共 13 节，对应视频 P82–P94。各节文件已放入空白笔记模板，学习后逐步填写。
+共 12 节，对应视频 P82–P94。各节文件已放入空白笔记模板，学习后逐步填写。
 
 | 分集 | 笔记 | 视频 |
 | --- | --- | --- |
@@ -18,4 +18,3 @@
 | P91 | [10 - 1.10理解人类水平表现](P091_10%20-%201.10%E7%90%86%E8%A7%A3%E4%BA%BA%E7%B1%BB%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=91) |
 | P92 | [11 - 1.11超越人类水平表现](P092_11%20-%201.11%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%B1%BB%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=92) |
 | P93 | [12 - 1.12提高您的模型性能](P093_12%20-%201.12%E6%8F%90%E9%AB%98%E6%82%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=93) |
-| P94 | [13 - 1.13Andrej Karpathy访谈](P094_13%20-%201.13Andrej%20Karpathy%E8%AE%BF%E8%B0%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=94) |

@@ -2,7 +2,7 @@
 
 [返回课程目录](../README.md) · [返回仓库首页](../../README.md)
 
-共 12 节，对应视频 P27–P38。各节文件已放入空白笔记模板，学习后逐步填写。
+共 11 节，对应视频 P27–P38。各节文件已放入空白笔记模板，学习后逐步填写。
 
 | 分集 | 笔记 | 视频 |
 | --- | --- | --- |
@@ -17,4 +17,3 @@
 | P35 | [35 - 3.9神经网络的梯度下降](P035_35%20-%203.9%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=35) |
 | P36 | [36 - 3.10反向传播的直觉（选修）](P036_36%20-%203.10%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%9A%84%E7%9B%B4%E8%A7%89%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=36) |
 | P37 | [37 - 3.11随机初始化](P037_37%20-%203.11%E9%9A%8F%E6%9C%BA%E5%88%9D%E5%A7%8B%E5%8C%96.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=37) |
-| P38 | [38 - 3.12Ian Goodfellow访谈（选修）](P038_38%20-%203.12Ian%20Goodfellow%E8%AE%BF%E8%B0%88%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=38) |

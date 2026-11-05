@@ -9,22 +9,22 @@ Andrew Ng Deep Learning Notes
 
 ## 目录
 
-按“课程 → 周次 → 分集笔记”组织，覆盖所选 B 站视频的 **P1–P192，共 192 节**。分集编号和原始标题核对日期：2026-11-02。文件名前的 `P001` 等编号对应 B 站分 P，原题中的编号予以保留。
+按“课程 → 周次 → 分集笔记”组织，保留所选 B 站视频中的 **187 个知识点分集**，沿用原始 P 编号。分集编号和原始标题核对日期：2026-11-02。非知识点访谈已移除，因此 P 编号不连续。文件名前的 `P001` 等编号对应 B 站分 P，原题中的编号予以保留。
 
 周目录按视频的章节编号分组；第五门课将视频中编号为 3.11–3.15 的 Transformer 内容保留在第三周，以便与当前 B 站目录对应。这里的周次分组不表示当前 Coursera 版本的全部周次安排。
 
 | 课程 | 内容 | 周目录 | 分集范围 | 节数 |
 | --- | --- | --- | --- | --- |
-| 课程1 | [神经网络和深度学习](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/README.md) | 4 | P1–P46 | 46 |
+| 课程1 | [神经网络和深度学习](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/README.md) | 4 | P1–P46 | 43 |
 | 课程2 | [改善深层神经网络：超参数调试、正则化以及优化](02_%E6%94%B9%E5%96%84%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%B6%85%E5%8F%82%E6%95%B0%E8%B0%83%E8%AF%95%E3%80%81%E6%AD%A3%E5%88%99%E5%8C%96%E4%BB%A5%E5%8F%8A%E4%BC%98%E5%8C%96/README.md) | 3 | P47–P81 | 35 |
-| 课程3 | [结构化机器学习项目](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/README.md) | 2 | P82–P105 | 24 |
+| 课程3 | [结构化机器学习项目](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/README.md) | 2 | P82–P105 | 22 |
 | 课程4 | [卷积神经网络](04_%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/README.md) | 4 | P106–P155 | 50 |
 | 课程5 | [序列模型](05_%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B/README.md) | 3 | P156–P192 | 37 |
 
 ## 分集导航
 
 <details>
-<summary>课程1：神经网络和深度学习（46 节）</summary>
+<summary>课程1：神经网络和深度学习（43 节）</summary>
 
 ### [第1周：深度学习引言](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC1%E5%91%A8_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%95%E8%A8%80/README.md)
 
@@ -36,7 +36,6 @@ Andrew Ng Deep Learning Notes
 | P4 | [04 - 1.3监督学习与神经网络](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC1%E5%91%A8_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%95%E8%A8%80/P004_04%20-%201.3%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E4%B8%8E%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=4) |
 | P5 | [05 - 1.4关于这门课](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC1%E5%91%A8_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%95%E8%A8%80/P005_05%20-%201.4%E5%85%B3%E4%BA%8E%E8%BF%99%E9%97%A8%E8%AF%BE.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=5) |
 | P6 | [06 - 1.5课程资源](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC1%E5%91%A8_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%95%E8%A8%80/P006_06%20-%201.5%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=6) |
-| P7 | [07 - 1.6Geoffrey Hinton访谈（选修）](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC1%E5%91%A8_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BC%95%E8%A8%80/P007_07%20-%201.6Geoffrey%20Hinton%E8%AE%BF%E8%B0%88%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=7) |
 
 ### [第2周：神经网络的编程基础](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC2%E5%91%A8_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/README.md)
 
@@ -60,7 +59,6 @@ Andrew Ng Deep Learning Notes
 | P23 | [23 - 2.16python numpy 向量的注释](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC2%E5%91%A8_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/P023_23%20-%202.16python%20numpy%20%E5%90%91%E9%87%8F%E7%9A%84%E6%B3%A8%E9%87%8A.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=23) |
 | P24 | [24 - 2.17Jupyter iPython 笔记本的快速浏览](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC2%E5%91%A8_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/P024_24%20-%202.17Jupyter%20iPython%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E5%BF%AB%E9%80%9F%E6%B5%8F%E8%A7%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=24) |
 | P25 | [25 - 2.18逻辑回归损失函数的解释（选修）](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC2%E5%91%A8_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/P025_25%20-%202.18%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9A%84%E8%A7%A3%E9%87%8A%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=25) |
-| P26 | [26 - 2.19Pieter Abbeel访谈（选修）](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC2%E5%91%A8_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/P026_26%20-%202.19Pieter%20Abbeel%E8%AE%BF%E8%B0%88%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=26) |
 
 ### [第3周：浅层神经网络](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC3%E5%91%A8_%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/README.md)
 
@@ -77,7 +75,6 @@ Andrew Ng Deep Learning Notes
 | P35 | [35 - 3.9神经网络的梯度下降](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC3%E5%91%A8_%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/P035_35%20-%203.9%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=35) |
 | P36 | [36 - 3.10反向传播的直觉（选修）](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC3%E5%91%A8_%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/P036_36%20-%203.10%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%9A%84%E7%9B%B4%E8%A7%89%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=36) |
 | P37 | [37 - 3.11随机初始化](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC3%E5%91%A8_%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/P037_37%20-%203.11%E9%9A%8F%E6%9C%BA%E5%88%9D%E5%A7%8B%E5%8C%96.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=37) |
-| P38 | [38 - 3.12Ian Goodfellow访谈（选修）](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC3%E5%91%A8_%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/P038_38%20-%203.12Ian%20Goodfellow%E8%AE%BF%E8%B0%88%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=38) |
 
 ### [第4周：深层神经网络](01_%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E7%AC%AC4%E5%91%A8_%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/README.md)
 
@@ -150,7 +147,7 @@ Andrew Ng Deep Learning Notes
 </details>
 
 <details>
-<summary>课程3：结构化机器学习项目（24 节）</summary>
+<summary>课程3：结构化机器学习项目（22 节）</summary>
 
 ### [第1周：机器学习策略（上）](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC1%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89/README.md)
 
@@ -168,7 +165,6 @@ Andrew Ng Deep Learning Notes
 | P91 | [10 - 1.10理解人类水平表现](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC1%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89/P091_10%20-%201.10%E7%90%86%E8%A7%A3%E4%BA%BA%E7%B1%BB%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=91) |
 | P92 | [11 - 1.11超越人类水平表现](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC1%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89/P092_11%20-%201.11%E8%B6%85%E8%B6%8A%E4%BA%BA%E7%B1%BB%E6%B0%B4%E5%B9%B3%E8%A1%A8%E7%8E%B0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=92) |
 | P93 | [12 - 1.12提高您的模型性能](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC1%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89/P093_12%20-%201.12%E6%8F%90%E9%AB%98%E6%82%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=93) |
-| P94 | [13 - 1.13Andrej Karpathy访谈](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC1%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8A%EF%BC%89/P094_13%20-%201.13Andrej%20Karpathy%E8%AE%BF%E8%B0%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=94) |
 
 ### [第2周：机器学习策略（下）](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC2%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8B%EF%BC%89/README.md)
 
@@ -184,7 +180,6 @@ Andrew Ng Deep Learning Notes
 | P102 | [21 - 2.8多任务学习](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC2%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8B%EF%BC%89/P102_21%20-%202.8%E5%A4%9A%E4%BB%BB%E5%8A%A1%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=102) |
 | P103 | [22 - 2.9什么是端到端深度学习](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC2%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8B%EF%BC%89/P103_22%20-%202.9%E4%BB%80%E4%B9%88%E6%98%AF%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=103) |
 | P104 | [23 - 2.10是否使用端到端深度学习](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC2%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8B%EF%BC%89/P104_23%20-%202.10%E6%98%AF%E5%90%A6%E4%BD%BF%E7%94%A8%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=104) |
-| P105 | [24 - 2.11Ruslan Salakhutdinov访谈](03_%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/%E7%AC%AC2%E5%91%A8_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AD%96%E7%95%A5%EF%BC%88%E4%B8%8B%EF%BC%89/P105_24%20-%202.11Ruslan%20Salakhutdinov%E8%AE%BF%E8%B0%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=105) |
 
 </details>
 
@@ -322,11 +317,9 @@ Andrew Ng Deep Learning Notes
 
 ## 如何记录
 
-1. 点击课程或分集标题，进入对应的 `.md` 笔记；在 GitHub 页面点击编辑按钮即可填写并提交。
-2. 每节预留“核心概念、公式与推导、代码与实验、疑问与易错点、参考资料”五部分，可按实际需要删改。
-3. 学完后勾选笔记顶部的进度框；以后如需运行代码，可在同一周目录下补充自己的 `.py` 或 `.ipynb` 文件。
+点击分集标题进入笔记，在 GitHub 页面使用编辑按钮填写或修改内容。需要运行代码时，可在同一周目录下补充相应的 Python 或 Jupyter Notebook 文件。
 
-已补充 P001–P016（截至“逻辑回归梯度下降”），共 16 节；其余分集仍为模板。整理日期：2026-11-05。笔记中的“已整理”表示内容已补齐，观看和复习进度由学习者自行勾选。
+P001–P016 中保留的 15 篇已补齐内容（截至“逻辑回归梯度下降”）；其余知识点分集仍为模板。
 
 ## 目录说明与参考
 

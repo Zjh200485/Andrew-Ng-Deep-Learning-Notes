@@ -2,7 +2,7 @@
 
 [返回课程目录](../README.md) · [返回仓库首页](../../README.md)
 
-共 19 节，对应视频 P8–P26。P008–P016 已补充内容，P017 及以后为待填写模板。
+共 18 节，对应视频 P8–P26。P008–P016 已补充内容，P017 及以后为待填写模板。
 
 | 分集 | 笔记 | 视频 |
 | --- | --- | --- |
@@ -24,4 +24,3 @@
 | P23 | [23 - 2.16python numpy 向量的注释](P023_23%20-%202.16python%20numpy%20%E5%90%91%E9%87%8F%E7%9A%84%E6%B3%A8%E9%87%8A.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=23) |
 | P24 | [24 - 2.17Jupyter iPython 笔记本的快速浏览](P024_24%20-%202.17Jupyter%20iPython%20%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E5%BF%AB%E9%80%9F%E6%B5%8F%E8%A7%88.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=24) |
 | P25 | [25 - 2.18逻辑回归损失函数的解释（选修）](P025_25%20-%202.18%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E7%9A%84%E8%A7%A3%E9%87%8A%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=25) |
-| P26 | [26 - 2.19Pieter Abbeel访谈（选修）](P026_26%20-%202.19Pieter%20Abbeel%E8%AE%BF%E8%B0%88%EF%BC%88%E9%80%89%E4%BF%AE%EF%BC%89.md) | [视频](https://www.bilibili.com/video/BV12urfB1E7s?p=26) |
